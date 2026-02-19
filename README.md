@@ -7,9 +7,9 @@ I am a studying Data Science at **BPP Univeristy**
 
 Absolute nerd in real life - games, TTRPG's and art. 
 
-##Education
+## Education
 Degree in Computer Game Design
 
-##Projects
+## Projects
 
 D&D Dataset - Logistic Regression
