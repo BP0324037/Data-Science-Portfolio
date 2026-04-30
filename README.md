@@ -14,4 +14,4 @@ Absolute nerd in real life - games, TTRPG's and art.
 
 ## Projects
 
-D&D Dataset - Logistic Regression
+[D&D Dataset - Logistic Regression](https://bp0324037.github.io/Data-Science-Portfolio/D&D-Dataset.html)
