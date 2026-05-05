@@ -18,7 +18,7 @@ Python is not a typical tool for the analyst, but it’s versatility in loading 
 
 The data was loaded into Power Query to commence cleaning. All 0’s in a stat such as Strength or Dexterity were removed as they are invalid as per the rules of D&D. 
 
- 
+![Figure 1](images/Fig1.png)
 Figure 1 - A custom column checking if a character has a subclass at the appropriate level to improve the validity of the dataset.
 Then a custom column was created to check that each character had a subclass at the appropriate level. If there was no subclass and the level was above the threshold of the level that class received one, it was flagged with an “N” that was then filtered out.
 
