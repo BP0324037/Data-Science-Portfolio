@@ -1,4 +1,4 @@
-# D&D Dataset
+# Dungeons & Dragons Dataset
 
 ## How Logistic Regression helps to analyse if players Multiclass in D&D due to MinMaxing/Mechanics Decisions or Roleplaying and what factors affect the decision?
 
